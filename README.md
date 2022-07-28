@@ -26,4 +26,15 @@ This is an e-commerce website dashboard. Where you will add, delete, and update 
 -> Open it one a code editor.
 -> For front end run `npm run start` to view the website in development server.
 -> For back end run `php artisan serve` to start backend functionality.
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/63288667/181594377-86acaec8-e8a4-46af-acba-b81f3bf724c5.png)
